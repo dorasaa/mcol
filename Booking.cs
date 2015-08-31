@@ -9,3 +9,9 @@ add()
 	
 	console.writeline("add two numbers");
 }
+
+multiplt()
+{
+	
+	console.writeline("multiplication of two numbers");
+}
